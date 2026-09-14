@@ -9,9 +9,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+Lập trình viên phần mềm (Software Developer).
 
-Vì sao: …
+Vì sao:  em yêu thích công nghệ, muốn tạo ra các ứng dụng hữu ích và phát triển lâu dài trong lĩnh vực lập trình.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
