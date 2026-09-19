@@ -52,9 +52,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Việc tự động thu thập dữ liệu vị trí sẽ ngay lập tức mang lại nguồn dữ liệu quý giá để tối ưu hóa tính năng, nâng cao trải nghiệm tổng thể cho số đông người dùng và tạo lợi thế cạnh tranh thương mại, trong khi rủi ro bị phát hiện hay xử phạt pháp lý ngắn hạn là rất thấp so với tổn thất tài chính nếu hoãn tiến độ ra mắt.
+- Phía người dùng lập luận rằng: ành vi theo dõi ngầm khi chưa công khai trong chính sách riêng tư là sự xâm phạm nghiêm trọng quyền tự quyết thông tin cá nhân, tước đi sự lựa chọn của họ, tạo ra nguy cơ rò rỉ dữ liệu an ninh nguy hiểm và phá hủy hoàn toàn niềm tin đối với sản phẩm.
+- **Quyết định của tôi**, và vì sao: Tạm dừng phát hành tính năng này ngay lập tức, chỉ triển khai sau khi đã cập nhật chính sách riêng tư rõ ràng và nhận được sự đồng ý chủ động từ người dùng. Lý do là vì việc đánh đổi niềm tin người dùng lấy tiến độ ngắn hạn sẽ tạo ra rủi ro khủng hoảng truyền thông, bị tẩy chay và các án phạt pháp lý nặng nề, gây ra thiệt hại ròng vượt xa lợi ích thu được; đồng thời, chi phí trì hoãn vài ngày để minh bạch hóa thủ tục là rất nhỏ nhưng giúp bảo vệ tổng giá trị bền vững dài hạn cho cả công ty lẫn toàn bộ cộng đồng người sử dụng.
 
 ## Ba việc tôi làm trong học kỳ này
 
