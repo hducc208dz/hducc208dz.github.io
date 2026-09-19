@@ -19,16 +19,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên | … | chưa|
-| Kỹ năng |hành thạo ngôn ngữ lập trình Python hoặc các ngôn ngữ lập trình phù hợp khác.
-Có kiến ​​thức cơ bản về các framework học sâu (deep learning) như PyTorch hoặc TensorFlow là một lợi thế,Kỹ năng giao tiếp tiếng Anh tốt (cả văn viết và nói).|Kinh nghiệm từ 1-2 năm với các yêu cầu bên dưới.
-Có kinh nghiệm quản trị hệ thống Linux như Ubuntu, CentOS, Rocky Linux hoặc các Linux distribution tương đương.
-Có kinh nghiệm triển khai, quản trị và troubleshooting Kubernetes trên môi trường On-premises hoặc Cloud.
-Có kinh nghiệm và hiểu biết triển khai, vận hành hạ tầng Cloud trên một hoặc nhiều nền tảng như AWS, GCP, Azure hoặc VNGCloud.
-Có kinh nghiệm với các công cụ Infrastructure as Code (IaC) như Terraform, Ansible.
-Có kinh nghiệm với các công cụ CI/CD và GitOps như GitHub Actions, Argo CD.
-Có khả năng phân tích vấn đề, troubleshooting và xử lý sự cố trong môi trường production.
-Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| … |một phần|
+| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên ngành| … | 
+| Kỹ năng |hành thạo ngôn ngữ lập trình Python hoặc các ngôn ngữ lập trình phù hợp khác| … |một phần|
 | Thái độ |Kỹ năng giải quyết vấn đề tốt và khả năng làm việc trong môi trường năng động.| … | … | … |
 | Công cụ |Power Automate,Azure Document Intelligence,Azure AI services,APIs,Python,PyTorch,TensorFlow,Azure.| … | … | … |
 
