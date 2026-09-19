@@ -19,7 +19,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.| … | 
+| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.Có kiến thức và kinh nghiệm thực tế trong ít nhất một trong các lĩnh vực:Networking, TCP/IP, Routing, DNS, VPN, Hypervisor/KVM, Container/Docker| … | 
 | Kỹ năng |hành thạo ngôn ngữ lập trình Python hoặc các ngôn ngữ lập trình phù hợp khác| … |một phần|
 | Thái độ |Kỹ năng giải quyết vấn đề tốt và khả năng làm việc trong môi trường năng động.| … | … | … |
 | Công cụ |Power Automate,Azure Document Intelligence,Azure AI services,APIs,Python,PyTorch,TensorFlow,Azure.| … | … | … |
