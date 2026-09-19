@@ -19,17 +19,29 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.
+Có kiến thức và kinh nghiệm thực tế trong ít nhất một trong các lĩnh vực:
+Networking, TCP/IP, Routing, DNS, VPN
+Hypervisor/KVM
+Container/Docker| … | chưa|
+| Kỹ năng |hành thạo ngôn ngữ lập trình Python hoặc các ngôn ngữ lập trình phù hợp khác.
+Có kiến ​​thức cơ bản về các framework học sâu (deep learning) như PyTorch hoặc TensorFlow là một lợi thế,Kỹ năng giao tiếp tiếng Anh tốt (cả văn viết và nói).|Kinh nghiệm từ 1-2 năm với các yêu cầu bên dưới.
+Có kinh nghiệm quản trị hệ thống Linux như Ubuntu, CentOS, Rocky Linux hoặc các Linux distribution tương đương.
+Có kinh nghiệm triển khai, quản trị và troubleshooting Kubernetes trên môi trường On-premises hoặc Cloud.
+Có kinh nghiệm và hiểu biết triển khai, vận hành hạ tầng Cloud trên một hoặc nhiều nền tảng như AWS, GCP, Azure hoặc VNGCloud.
+Có kinh nghiệm với các công cụ Infrastructure as Code (IaC) như Terraform, Ansible.
+Có kinh nghiệm với các công cụ CI/CD và GitOps như GitHub Actions, Argo CD.
+Có khả năng phân tích vấn đề, troubleshooting và xử lý sự cố trong môi trường production.
+Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.| … |một phần|
+| Thái độ |Kỹ năng giải quyết vấn đề tốt và khả năng làm việc trong môi trường năng động.| … | … | … |
+| Công cụ |Power Automate,Azure Document Intelligence,Azure AI services,APIs,Python,PyTorch,TensorFlow,Azure.| … | … | … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
+| 1 | FBT software | Lô T2-2, Đường D1, Khu Công nghệ cao TP.HCM (SHTP), phường Tăng Nhơn Phú, TP. Thủ Đức, TP.HCM |https://career.fpt-software.com/co-hoi-viec-lam/|19//09/2026 |
+| 2 |VVG|Z06, Đường số 13, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, TP. Hồ Chí Minh|https://career.vng.com.vn/vi/tim-kiem-viec-lam/chi-tiet/6863-associate-system-engineer-greennode-vi|19/09/2026|
 | 3 | … | … | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
