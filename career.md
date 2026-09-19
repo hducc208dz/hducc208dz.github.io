@@ -58,9 +58,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Thử hết tất cả những hướng đi mà bản thân đã lựa chọn, xem hướng đi nào sẽ phù hợp với mình
+2. Chuyên tâm học tập và trao dồi kiến thức, chuẩn bị thật tốt cho ngành nghề bản thân lựa chọn, phát triển kiến thức và nâng cao kĩ năng cho bản thân.
+3.
 
 Cụ thể tới mức tháng sau kiểm được.
 
