@@ -19,11 +19,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.
-Có kiến thức và kinh nghiệm thực tế trong ít nhất một trong các lĩnh vực:
-Networking, TCP/IP, Routing, DNS, VPN
-Hypervisor/KVM
-Container/Docker| … | chưa|
+| Kiến thức |Bằng Cử nhân chuyên ngành Khoa học Máy tính, Trí tuệ Nhân tạo (AI),Học máy (Machine Learning) hoặc các lĩnh vực liên quan |Tốt nghiệp Đại học chuyên | … | chưa|
 | Kỹ năng |hành thạo ngôn ngữ lập trình Python hoặc các ngôn ngữ lập trình phù hợp khác.
 Có kiến ​​thức cơ bản về các framework học sâu (deep learning) như PyTorch hoặc TensorFlow là một lợi thế,Kỹ năng giao tiếp tiếng Anh tốt (cả văn viết và nói).|Kinh nghiệm từ 1-2 năm với các yêu cầu bên dưới.
 Có kinh nghiệm quản trị hệ thống Linux như Ubuntu, CentOS, Rocky Linux hoặc các Linux distribution tương đương.
