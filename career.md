@@ -37,9 +37,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: có hiểu biết về công cụ quản lý cấu hình (Ansible, Terraform, Puppet) hoặc quy trình CI/CD
+- Tin tuyển dụng thật ra viết: có kinh nghiệm với các công cụ Infrastructure as Code (IaC) như Terraform, Ansible, có kinh nghiệm với các công cụ CI/CD và GitOps như GitHub Actions, Argo CD
+- Tôi sửa thành: 
 
 **Chỗ thứ hai**
 
