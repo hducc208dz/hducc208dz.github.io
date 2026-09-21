@@ -29,7 +29,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 | FBT software | Lô T2-2, Đường D1, Khu Công nghệ cao TP.HCM (SHTP), phường Tăng Nhơn Phú, TP. Thủ Đức, TP.HCM |https://career.fpt-software.com/co-hoi-viec-lam/|19//09/2026 |
-| 2 |VVG|Z06, Đường số 13, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, TP. Hồ Chí Minh|https://career.vng.com.vn/vi/tim-kiem-viec-lam/chi-tiet/6863-associate-system-engineer-greennode-vi|19/09/2026|
+| 2 |VNG|Z06, Đường số 13, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, TP. Hồ Chí Minh|https://career.vng.com.vn/vi/tim-kiem-viec-lam/chi-tiet/6863-associate-system-engineer-greennode-vi|19/09/2026|
 | 3 |CMC Corporation|CMC Tower, 11 phố Duy Tân, Phường Cầu Giấy, Hà Nội|https://careers.cmcts.com.vn/job/hn-data-engineer-ai-product-5379#job-detail|19/09/2026|
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
