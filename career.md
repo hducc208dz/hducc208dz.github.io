@@ -67,9 +67,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Hỏi AI về cách tạo mục " anh " theo đề bài' sau đó hỏi về cách để mục " anh " xuất hiện trong bảng " Chân dung nghề của tôi " và AI đã đưa ra một đoạn mã để dán vào bảng  |
+| **Hoài** | Nhờ AI tìm ra 3 tin tuyển dụng kèm theo yêu cầu của tin tuyển dụng đó, sau đó trực tiếp kiểm tra lại nhưng thông tin mà AI tìm được bằng cách lên thẳng web của tin tuyển dụng để xem và phát hiện AI đẫ sai một phần  |
+| **Học** | Nhờ AI trả lời tình huống ở mục " Một quyết định đạo đức " ở cả 2 vai trò " Phía luật sư công ty " và " Phía người dùng " ở vai trò Luật sư công ty, AI lập luận bằng cách lấy kết quả thực tế và cán cân lợi nhuận làm thước đo đúng sai. Một hành vi được coi là hợp lý nếu nó mang lại tổng lợi ích lớn hơn rủi ro và bỏ qua yếu tố đạo đức về quyền riêng tư cá nhân, coi sự minh bạch chỉ là một thủ tục cản trở tiến độ và gây tổn thất tài chính. Ở vai trò người dùng AI đã đưa ra lập luận dựa trên đạo đức học nghĩa vụ và quyền cá nhân, ấy các nguyên tắc đạo đức bất di bất dịch và quyền con người làm trọng tâm. Hành động theo dõi ngầm tự bản thân nó đã là sai trái, bất kể nó mang lại lợi ích gì cho sản phẩm. Tập trung vào các tổn hại nền tảng khó đo đếm bằng tiền trong ngắn hạn nhưng có tính hủy diệt, bao gồm nguy cơ an ninh cốt lõi và sự sụp đổ hoàn toàn về niềm tin. Quyết định cuối cùng được đưa ra là tạm dừng phát hành tính năng này ngay lập tức, chỉ triển khai sau khi đã cập nhật chính sách riêng tư rõ ràng và nhận được sự đồng ý chủ động từ người dùng. Vì việc đánh đổi niềm tin người dùng lấy tiến độ ngắn hạn sẽ tạo ra rủi ro khủng hoảng truyền thông, bị tẩy chay và các án phạt pháp lý nặng nề, gây ra thiệt hại ròng vượt xa lợi ích thu được; đồng thời, chi phí trì hoãn vài ngày để minh bạch hóa thủ tục là rất nhỏ nhưng giúp bảo vệ tổng giá trị bền vững dài hạn cho cả công ty lẫn toàn bộ cộng đồng người sử dụng.   |
+| **Hành** | Giữ lại đoạn mã mà AI đã đưa ra ở H1, sửa đổi phần mà AI đã sai ở bảng ASK ở H2 và 2 vai trò " Luật sư công ty " và " Phía người dùng " ở H3 và không thay đổi ý định về ba việc cần làm trong học kì này ở H4   |
 
-Công cụ đã dùng: Google Gemini
+Công cụ đã dùng: Google Gemini, Chat GPT 
