@@ -102,7 +102,7 @@ Lập trình viên phần mềm (Software Developer).
 | | AIT126 | Lập trình song song (Tự chọn nhóm 2) | 3 |
 | | NDF211 | Quốc phòng, an ninh 4 (không tích lũy) | 0 |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng:  tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
