@@ -62,12 +62,13 @@ Lập trình viên phần mềm (Software Developer).
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 5 | POS103 | Tư tưởng Hồ Chí Minh | 2 |
-| | ENC123 | Anh ngữ 4 | 3 |
+| 5 | ENS192 | Phát triển bền vững | 3 |
+| | CMP172 | Mạng máy tính | 3 |
+| | CMP373 | Thực hành mạng máy tính | 1 |
+| | AIT1002 | Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo | 3 |
+| | AIT3007 | Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo | 1 |
 | | CMP101 | Công nghệ phần mềm | 3 |
-| | CMP170 | Lập trình trên môi trường Windows | 3 |
-| | CMP371 | Thực hành lập trình trên môi trường Windows | 1 |
 | | AIT1001 | Cơ sở trí tuệ nhân tạo | 3 |
-| | COS321 | Thực hành cấu trúc dữ liệu và giải thuật | 1 |
 | | COS5011 | Thực tập cơ sở ngành Khoa học máy tính | 3 |
 | | NDF108 | Quốc phòng, an ninh 1 (không tích lũy) | 0 |
 | 6 | CMP177 | Lập trình trên thiết bị di động | 3 |
