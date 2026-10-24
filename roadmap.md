@@ -16,14 +16,25 @@ Lập trình viên phần mềm (Software Developer).
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | ENC120 COS673| Anh ngữ 1 Nhập môn ngành Khoa học máy tính | 3  3 |
+| 1 |COS673| Nhập môn ngành Khoa học máy tính| 3 |
+|   |ENC120| Anh ngữ 1| 3 | 
+|
+|
+|
 | 2 | … | … | … |
-
+|
+|
+|
+|
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 3 | … | … | … |
+|
+|
+|
+|
 | 4 | … | … | … |
 
 ### Năm ba
