@@ -37,12 +37,25 @@ Lập trình viên phần mềm (Software Developer).
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | … | … | … |
-|
-|
-|
-|
-| 4 | … | … | … |
+| 3 | CMP164 | Kỹ thuật lập trình | 3 |
+| | CMP365 | Thực hành kỹ thuật lập trình | 1 |
+| | CMP167 | Lập trình hướng đối tượng | 3 |
+| | CMP368 | Thực hành lập trình hướng đối tượng | 1 |
+| | COS135 | Nhập môn cơ sở dữ liệu | 3 |
+| | COS323 | Thực hành cơ sở dữ liệu | 1 |
+| | ENC122 | Anh ngữ 3 | 3 |
+| | SKL116 | Đổi mới sáng tạo và tư duy khởi nghiệp | 3 |
+| | PHT317 | Bóng đá 2 (không tích lũy) | 2 |
+| 4 | COS120 | Cấu trúc dữ liệu và giải thuật | 3 |
+| | COS321 | Thực hành cấu trúc dữ liệu và giải thuật | 1 |
+| | CMP170 | Lập trình trên môi trường Windows | 3 |
+| | CMP371 | Thực hành lập trình trên môi trường Windows | 1 |
+| | COS1002 | Các hệ quản trị cơ sở dữ liệu | 3 |
+| | COS324 | Thực hành quản trị cơ sở dữ liệu | 1 |
+| | MAT105 | Xác suất thống kê | 3 |
+| | ENC123 | Anh ngữ 4 | 3 |
+| | POS103 | Tư tưởng Hồ Chí Minh | 2 |
+| | PHT318 | Bóng đá 3 (không tích lũy) | 1 |
 
 ### Năm ba
 
