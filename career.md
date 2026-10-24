@@ -31,7 +31,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2 |VNG|Z06, Đường số 13, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, TP. Hồ Chí Minh|https://career.vng.com.vn/vi/tim-kiem-viec-lam/chi-tiet/6863-associate-system-engineer-greennode-vi|19/09/2026|
 | 3 |CMC Corporation|CMC Tower, 11 phố Duy Tân, Phường Cầu Giấy, Hà Nội|https://careers.cmcts.com.vn/job/hn-data-engineer-ai-product-5379#job-detail|19/09/2026|
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `[anh chup man hinh](https://github.com/hducc208dz/hducc208dz.github.io/tree/main/anh)`.
+Ảnh chụp màn hình ba tin lưu trong thư mục [ảnh chụp màn hình](https://github.com/hducc208dz/hducc208dz.github.io/tree/main/anh).
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
