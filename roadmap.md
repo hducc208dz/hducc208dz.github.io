@@ -16,21 +16,22 @@ Lập trình viên phần mềm (Software Developer).
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 |COS673| Nhập môn ngành Khoa học máy tính| 3 |
-|  |ENC120| Anh ngữ 1| 3 | 
-|  | SKL115 | Tư duy thiết kế dự án | 3 |
-|  | POS104 | Triết học Mác - Lênin | 3 | 
-|  | POS105 | Kinh tế chính trị Mác - Lênin | 2 |
-|  | POS106 | Chủ nghĩa xã hội khoa học | 2 |
-|  | LAW106 | Pháp luật đại cương | 3 |
+| 1 | COS673 | Nhập môn ngành Khoa học máy tính | 3 |
+| | ENC120 | Anh ngữ 1 | 3 |
+| | SKL115 | Tư duy thiết kế dự án | 3 |
+| | POS104 | Triết học Mác - Lênin | 3 |
+| | POS105 | Kinh tế chính trị Mác - Lênin | 2 |
+| | POS106 | Chủ nghĩa xã hội khoa học | 2 |
+| | LAW106 | Pháp luật đại cương | 3 |
 | 2 | MAT101 | Đại số tuyến tính | 3 |
-|  | MAT118 | Giải tích | 3 |
-|  | CMP3075 | Thực hành cơ sở lập trình | 1 |
-|  | PHT316 | Bóng đá 1 (không tích lũy) | 2 | 
-|  | ENC121 | Anh ngữ 2 | 3 |
-|  | CMP3014 | Thực hành lý thuyết đồ thị | 1 |
-|  | MAT104 | Toán rời rạc | 3 |
-|  | CMP1074 | Cơ sở lập trình | 3 |
+| | MAT118 | Giải tích | 3 |
+| | MAT104 | Toán rời rạc | 3 |
+| | CMP1074 | Cơ sở lập trình | 3 |
+| | CMP3075 | Thực hành cơ sở lập trình | 1 |
+| | ENC121 | Anh ngữ 2 | 3 |
+| | CMP3014 | Thực hành lý thuyết đồ thị | 1 |
+| | POS107 | Lịch sử Đảng Cộng sản Việt Nam | 2 |
+| | PHT316 | Bóng đá 1 (không tích lũy) | 2 |
 
 ### Năm hai
 
