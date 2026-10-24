@@ -107,23 +107,23 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 4, vì em quyết định dồn các môn cốt lõi mang tính sống còn đối với một Software Developer (Cấu trúc dữ liệu và giải thuật, Các hệ quản trị CSDL, Lập trình trên môi trường Windows) vào cùng một thời điểm để tạo nền  phá kỹ năng code trước khi bước sang năm 3.
+- Môn Cơ sở lập trình phải học trước môn Kỹ thuật lập trình (CMP164) vì đây là ràng buộc tiên quyết bắt buộc của chương trình đào tạo em cần nắm vững cú pháp và tư duy logic cơ bản rồi mới có thể học sâu hơn 
+- Kỳ  tôi để nhẹ vì vì học kỳ cuối em chỉ còn tập trung vào Thực tập tốt nghiệp và các môn chuyên (như Mô hình ngôn ngữ lớn, Lập trình song song), em cần giải phóng tối đa quỹ thời gian để đi làm thực tập sinh tại doanh nghiệp công nghệ.
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Sinh viên Khoa học máy tính năm nhất phải học môn "Vật lý đại cương".
+- Bảng chương trình đào tạo thật ra ghi: Kiến thức giáo dục đại cương hoàn toàn không có môn Vật lý, thay vào đó là các môn kỹ năng như Tư duy thiết kế dự án (SKL115).
+- Tôi sửa thành: Xóa bỏ môn Vật lý do AI tự bịa ra và bổ sung đúng các mã học phần kỹ năng mềm, khởi nghiệp theo khung chuẩn của trường.
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Môn "Cấu trúc dữ liệu và giải thuật" là một học phần gộp chung lý thuyết và thực hành trị giá 4 tín chỉ.
+- Bảng chương trình đào tạo thật ra ghi: Hệ thống tách biệt rõ ràng thành hai mã học phần độc lập: Cấu trúc dữ liệu và giải thuật (COS120 - 3 tín chỉ) và Thực hành cấu trúc dữ liệu và giải thuật (COS321 - 1 tín chỉ)
+- Tôi sửa thành: Tách làm 2 dòng riêng biệt với mã môn chính xác và xếp lịch học đồng thời vào Học kỳ 4 để đảm bảo khớp mã đăng ký học phần thực tế.
 
 ## Tôi đã làm việc với AI thế nào
 
