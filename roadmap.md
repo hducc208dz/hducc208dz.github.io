@@ -4,12 +4,11 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · Xoá dòng này khi nộp.**
-> Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
+
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+Lập trình viên phần mềm (Software Developer).
 
 ## Tám học kỳ
 
@@ -17,8 +16,7 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | … | … | … |
-| 1 | … | … | … |
+| 1 | ENC120 COS673| Anh ngữ 1 Nhập môn ngành Khoa học máy tính | 3  3 |
 | 2 | … | … | … |
 
 ### Năm hai
