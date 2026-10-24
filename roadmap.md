@@ -21,7 +21,7 @@ Lập trình viên phần mềm (Software Developer).
 | 1 | SKL115 | Tư duy thiết kế dự án | 3 |
 | 1 | POS104 | Triết học Mác - Lênin | 3 | 
 | 1 | POS105 | Kinh tế chính trị Mác - Lênin | 2 |
-| 1 | 1 | LAW106 | Pháp luật đại cương | 3 |
+| 1 | LAW106 | Pháp luật đại cương | 3 |
 | 1 | LAW106 | Pháp luật đại cương | 3 |
 | 2 | MAT101 | Đại số tuyến tính | 3 |
 | 2 | MAT118 | Giải tích | 3 |
