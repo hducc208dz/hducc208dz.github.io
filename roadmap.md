@@ -17,15 +17,21 @@ Lập trình viên phần mềm (Software Developer).
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 1 |COS673| Nhập môn ngành Khoa học máy tính| 3 |
-|   |ENC120| Anh ngữ 1| 3 | 
-|
-|
-|
-| 2 | … | … | … |
-|
-|
-|
-|
+| 1 |ENC120| Anh ngữ 1| 3 | 
+| 1 | SKL115 | Tư duy thiết kế dự án | 3 |
+| 1 | POS104 | Triết học Mác - Lênin | 3 | 
+| 1 | POS105 | Kinh tế chính trị Mác - Lênin | 2 |
+| 1 | 1 | LAW106 | Pháp luật đại cương | 3 |
+| 1 | LAW106 | Pháp luật đại cương | 3 |
+| 2 | MAT101 | Đại số tuyến tính | 3 |
+| 2 | MAT118 | Giải tích | 3 |
+| 2 | CMP3075 | Thực hành cơ sở lập trình | 1 |
+| 2 | PHT316 | Bóng đá 1 (không tích lũy) | 2 | 
+| 2 | ENC121 | Anh ngữ 2 | 3 |
+| 2 | CMP3014 | Thực hành lý thuyết đồ thị | 1 |
+| 2 | MAT104 | Toán rời rạc | 3 |
+| 2 | CMP1074 | Cơ sở lập trình | 3 |
+
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
