@@ -25,19 +25,21 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm | đang tập | Em có thể sử dụng các tính năng cơ bản nhưng thường tốn nhiều thời gian để tìm hiểu các tính năng nâng cao trước khi vận hành thiết bị và phần  |
+| 2 | Năng lực thông tin và dữ liệu | dùng được | Em có thể lưu trữ và xác thực tính minh bạch của thông tin trước khi sử dụng |
+| 3 | Giao tiếp và hợp tác trong môi trường số | đang tập | Em chưa có nhiều kinh nghiệm khi giao tiếp trong môi trường số |
+| 4 | Sáng tạo nội dung số | dùng được | Em có thể tạo ra video ngắn theo trend và khiến nó  viral bằng cách up lên các nền tảng video ngắn theo các khung giờ cố định |
+| 5 | An ninh và an toàn trên không gian mạng | dùng được | Em đã thành thạo các bước để bảo vệ thông tin cá nhân của mình trên không gian mạng  |
+| 6 | Học tập và phát triển kỹ năng số | đang tập | Khả năng tự học, tự tìm tài liệu của em cao nhưng tính chủ động về tự phát triển kỹ năng số và công nghệ còn thấp |
+| 7 | Năng lực số liên quan đến nghề nghiệp | chưa  |  |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Học tập và nghiên cứu nhiểu hơn về cách vận hành các thiết bị và phần mềm
+2. Tìm hiểu về các năng lực số liên quan đến nghề nghiệp sau này  
+3. Trau dồi thêm kinh nghiệm khi giao tiếp và hợp tác trong môi trường số đồng thời nâng cao tính chủ động về tự phát triển kỹ năng số và công nghệ
+## Tôi đã làm việc với AI thế nào
+## Bảy dấu hiệu nhận biết lừa đảo 
 
 ## Tôi đã làm việc với AI thế nào
 
