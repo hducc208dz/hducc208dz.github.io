@@ -45,9 +45,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 1  | Nhận phần thưởng quá dễ dàng  |   | Bên lừa đảo chỉ yêu cầu để lại số điện thoại kèm theo chuyển khoảng một khoảng phí nhỏ để nhận 1 phần thưởng to hơn ( Ví dụ: chuyển khoảng 5 triệu để nhận về xe SH350i )  |
 | 2 | Cán bộ cảnh sát gọi điện bằng số máy bình thường yêu cầu lên phường xác nhận thông tin hoặc có thể xác nhận online tại nhà  | 3 | Thông tin quan trọng, đặc biệt có liên quan đến pháp lý sẽ được xác nhận tại chính cơ quan địa phương và không hề có việc xác nhận online |
 | 3 | Sự gấp gáp bất thường  | 2  | Ví dụ: bên lừa đảo sẽ cố tình tạo ra áp lực về thời gian ( khóa tài khoản tạm thời,...) nhầm khiến con mồi hoảng loạn và làm theo yêu cầu ngay lập tức  |
-| 4 |   |   |   |
-| 5 |   |   |   |
-| 6 |   |   |   |
+| 4 | Yêu cầu cài đặt ứng dụng từ nguồn ngoài |   | Ứng dụng không thông qua store bình thường ( Google Play, AppStore ) |
+| 5 | Bệnh viện yêu cầu chuyển tiền để cấp cứu người thân |   | Bệnh viện không bao giờ yêu cầu đưa tiền trước để cứu người mà thay vào đó là sẽ cứu người trước sau đó mới thanh toán các khoản chi phí y tế |
+| 6 | Buôn bán account game giá rẻ hơn vài triệu so với giá trị thật |   |  |
 | 7 |   |   |   |
 
 ## Tôi đã làm việc với AI thế nào
