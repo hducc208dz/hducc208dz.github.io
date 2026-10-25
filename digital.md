@@ -48,15 +48,8 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 4 | Yêu cầu cài đặt ứng dụng từ nguồn ngoài |   | Ứng dụng không thông qua store bình thường ( Google Play, AppStore ) |
 | 5 | Bệnh viện yêu cầu chuyển tiền để cấp cứu người thân |   | Bệnh viện không bao giờ yêu cầu đưa tiền trước để cứu người mà thay vào đó là sẽ cứu người trước sau đó mới thanh toán các khoản chi phí y tế |
 | 6 | Buôn bán account game giá rẻ hơn vài triệu so với giá trị thật |   | Đánh vào tâm lý ham rẻ nhưng vẫn có account xịn để chơi của game thủ |
-| 7 |   |   |   |
+| 7 | Yêu cầu gửi tài khản và mật khẩu hoặc mã OTP để xác minh tài khoản chính chủ thông qua tin nhắn |   | Không có bất cứ nền tảng nào yêu cầu gửi tải khoản và mật khẩu hoặc OTP để xác minh tài khoản thông qua tin nhắn và thường chỉ xác minh bằng OTP |
 
 ## Tôi đã làm việc với AI thế nào
 
 Ở bài này AI đóng vai **người kèm cặp**: nó hỏi ngược lại tôi thay vì đưa đáp án.
-
-| Bước | Tôi đã làm gì |
-|---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
