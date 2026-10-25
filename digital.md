@@ -12,7 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Không tìm thấy bản thân mà chỉ thấy nhưng người đã có thành tựu nhất định trong cuộc 
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
@@ -42,13 +42,13 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 ## Bảy dấu hiệu nhận biết lừa đảo 
 | # | Dấu hiệu nhận biết lừa đảo | Mẫu | Lý do em kết luận |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 1  | Nhận phần thưởng quá dễ dàng  |   | Bên lừa đảo chỉ yêu cầu để lại số điện thoại kèm theo chuyển khoảng một khoảng phí nhỏ để nhận 1 phần thưởng to hơn ( Ví dụ: chuyển khoảng 5 triệu để nhận về xe SH350i  |
+| 2 | Cán bộ cảnh sát gọi điện bằng số máy bình thường yêu cầu lên phường xác nhận thông tin hoặc có thể xác nhận online tại nhà  |   | Thông tin quan trọng, đặc biệt có liên quan đến pháp lý sẽ được xác nhận tại chính cơ quan địa phương và không hề có việc xác nhận online |
+| 3 |   |   |   |
+| 4 |   |   |   |
+| 5 |   |   |   |
+| 6 |   |   |   |
+| 7 |   |   |   |
 
 ## Tôi đã làm việc với AI thế nào
 
