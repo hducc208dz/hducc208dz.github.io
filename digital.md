@@ -47,7 +47,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 3 | Sự gấp gáp bất thường  | 2  | Ví dụ: bên lừa đảo sẽ cố tình tạo ra áp lực về thời gian ( khóa tài khoản tạm thời,...) nhầm khiến con mồi hoảng loạn và làm theo yêu cầu ngay lập tức  |
 | 4 | Yêu cầu cài đặt ứng dụng từ nguồn ngoài |   | Ứng dụng không thông qua store bình thường ( Google Play, AppStore ) |
 | 5 | Bệnh viện yêu cầu chuyển tiền để cấp cứu người thân |   | Bệnh viện không bao giờ yêu cầu đưa tiền trước để cứu người mà thay vào đó là sẽ cứu người trước sau đó mới thanh toán các khoản chi phí y tế |
-| 6 | Buôn bán account game giá rẻ hơn vài triệu so với giá trị thật |   |  |
+| 6 | Buôn bán account game giá rẻ hơn vài triệu so với giá trị thật |   | Đánh vào tâm lý ham rẻ nhưng vẫn có account xịn để chơi của game thủ |
 | 7 |   |   |   |
 
 ## Tôi đã làm việc với AI thế nào
