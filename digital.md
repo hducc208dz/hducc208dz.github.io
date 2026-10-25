@@ -38,8 +38,17 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 1. Học tập và nghiên cứu nhiểu hơn về cách vận hành các thiết bị và phần mềm
 2. Tìm hiểu về các năng lực số liên quan đến nghề nghiệp sau này  
 3. Trau dồi thêm kinh nghiệm khi giao tiếp và hợp tác trong môi trường số đồng thời nâng cao tính chủ động về tự phát triển kỹ năng số và công nghệ
-## Tôi đã làm việc với AI thế nào
+
 ## Bảy dấu hiệu nhận biết lừa đảo 
+| # | Dấu hiệu nhận biết lừa đảo | Mẫu | Lý do em kết luận |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ## Tôi đã làm việc với AI thế nào
 
