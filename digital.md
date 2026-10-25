@@ -42,9 +42,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 ## Bảy dấu hiệu nhận biết lừa đảo 
 | # | Dấu hiệu nhận biết lừa đảo | Mẫu | Lý do em kết luận |
 |---|---|---|---|
-| 1  | Nhận phần thưởng quá dễ dàng  |   | Bên lừa đảo chỉ yêu cầu để lại số điện thoại kèm theo chuyển khoảng một khoảng phí nhỏ để nhận 1 phần thưởng to hơn ( Ví dụ: chuyển khoảng 5 triệu để nhận về xe SH350i  |
+| 1  | Nhận phần thưởng quá dễ dàng  |   | Bên lừa đảo chỉ yêu cầu để lại số điện thoại kèm theo chuyển khoảng một khoảng phí nhỏ để nhận 1 phần thưởng to hơn ( Ví dụ: chuyển khoảng 5 triệu để nhận về xe SH350i )  |
 | 2 | Cán bộ cảnh sát gọi điện bằng số máy bình thường yêu cầu lên phường xác nhận thông tin hoặc có thể xác nhận online tại nhà  |   | Thông tin quan trọng, đặc biệt có liên quan đến pháp lý sẽ được xác nhận tại chính cơ quan địa phương và không hề có việc xác nhận online |
-| 3 |   |   |   |
+| 3 | Sự gấp gáp bất thường  | 2  | Ví dụ: bên lừa đảo sẽ cố tình tạo ra áp lực về thời gian ( khóa tài khoản tạm thời,...) nhầm khiến con mồi hoảng loạn và làm theo yêu cầu ngay lập tức  |
 | 4 |   |   |   |
 | 5 |   |   |   |
 | 6 |   |   |   |
