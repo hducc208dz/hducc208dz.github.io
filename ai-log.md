@@ -10,12 +10,11 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | gemini | Sinh bản nháp + Đối tác phản biện | … | … |
+| 1 | gemini | Sinh bản nháp + Đối tác phản biện | Nhờ AI tìm 3 tin tuyển dụng và rút ra bảng năng lực | Sửa lại những thông tin sai từ ba tin tuyển dụng |
 | 2 | gemini | Đối tác phản biện | … | … |
 | 3 | gemini | Sinh bản nháp | … | … |
 | 4 | gemini | Người kèm cặp | … | … |
 | 5 | gemini | Đối tác phản biện | … | … |
-| 6 | gemini | … | … | … |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
